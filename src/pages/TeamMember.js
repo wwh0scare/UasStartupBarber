@@ -19,7 +19,7 @@ Today, Sierra is a cornerstone of the shop, proving that great barbering knows n
 
 
           `,
-            image: 'https://sdmntprwestcentralus.oaiusercontent.com/files/00000000-a4f8-61fb-b3c8-daf356430e6a/raw?se=2025-07-10T15%3A12%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=2828f213-f122-5d4f-a6e5-ea2d61250131&skoid=f28c0102-4d9d-4950-baf0-4a8e5f6cf9d4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T12%3A15%3A34Z&ske=2025-07-11T12%3A15%3A34Z&sks=b&skv=2024-08-04&sig=vJgJrWD57VO2dBaO1MAotBSKe4uOjZAeH1WfVQD8jPU%3D',
+            image: 'https://i.pinimg.com/1200x/ae/c7/77/aec777f8c4a207cf1cc7e9541bb4328d.jpg',
             subheader: 'Expert Stylist'
         },
         billy: {
@@ -61,7 +61,7 @@ Ramir’s Barbershop became Semarang’s hub for hair innovation, proving tradit
 
 
           `,
-            image: 'https://lh3.googleusercontent.com/fife/ALs6j_ESIuMQyDg1b23W8z8S7CCW1p_4gyvI7_3ucwg6tDIf1g3b2S5G0KtQA_C1-eiqd0vInJ242WVSGkxIx83SDimY9bVVZf-go3jjDfs3_vHPuXaiuT_ROxK9j3BFovgsXNE892sZLaH3dmLzcVmG37uzekMzQ3YTqI-5XNn6cwO4NUUPbARiTAAKMnzWdDACYkSuWxGUppvLsPzsO0_FXIjy9o5NrPCLIAO_Na-wnYLX9T8HlZJ5qLp7Bh0EZHPOSUKfwna75zmWi4uyqtcQ7SN7_m6-1m0iYsQaIODCisi1hNx9FTMgym2wq2NnxmEmAM1lWsJ0IYyqbmwcwdUo5PxyX-ygpSzv2HQygiei8Zd77nx9msv-N1doil4orsKaO6vYDF8zQa0opMQqu8IgQAhEwo9hzQYsm9UXtI0D79kTLnOz6noMqK7EXYHP4Eb89fMn0ZAtktt_9odpf6cikDvhyYAeCE1cnHhZtkVc_31K30LTZJrE0mXFyjpbRdZGsay-y3j1L-857aJcyihkm9Keapr_jArlWwSdwtRafyvwLaK6_PiP3Ifihsoy5XyXFAzQuTVjNHiLCmlygdq41mHQojeInMNiiUwyoYgXf3zNjWFrPTC3QN3Y7Zdb-GQ2qQWwgzVQTR24i_Hb0FZ9E5COR1yR0lqCfPufLGm9zQPn6L7w2BwyoaAzQ1XsjxtC1DH6ua1Qwyc6-oai60mv54jTZ8TNLLWnz1KT0OU61KM63U_tq1YOuei8lQiHUJppImxq16nQQp53blx7oi4QyjCiWyzBTE2jGtVkWUWNrG5xAd6ztIvYrNSw944rwlIl3M1q-tKOPx3i_iPa5OpOWm9NR4Mwr8yeS4e9aC6Qz-wJflGrG5XAnsEagfRSDMrd_MDbIA2CVlVhZsrc3sdmaRO9KKu734pRk3EKe5YtVL6mMlrJWqLcnQ7IMznPJ_c8kPSoIvFTNVXa47u0_zDfF89pAJaBLGpWGiMYjbsvpMCi1VI-u04UovbCI9KGYqkSY5itzSRQS_9Jv7wpm_WdtWPAInNkbrJU2Qg5hjyH0hKyj7zzYncqXFPUlDb3P17Sv986pF3l_2zHkONdkOGE0XoGa2PPo0ZZAsmC-Qx4elbrpaf9nIbSudc54FyhyBXUVQ7prFDK45t16um0xkGRaxebPzxXFudmxjnFIYn6xFzryA-qRmX_z9dGbzuKJki99UUGHr4FBKNWY1cElOdjgBBYgRPfH19yxMreJGOs1Cf5iaLbOfrdEDm8v67fBN5ygWKOfEM5RHME0NMHZvErZ0ibnXxJ0zLvRnjkB6FKiVfKm4S05BaYZlgOyPIya2dLPdsRgDCvLxcgyP2QL2Asnj7DfpjrEAreMv6HFzC5D6UNRQ5ozuf_g5ZLg_bUVkzM72x_ntzxROegclZgJMzNzzLFkQ=s1024',
+            image: 'https://i.pinimg.com/736x/8a/36/c1/8a36c1fe02df62cdad2e70dff2f6e43e.jpg',
             subheader: 'Expert Stylist'
         }
     }
